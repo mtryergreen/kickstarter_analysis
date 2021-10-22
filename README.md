@@ -2,12 +2,12 @@
 
 ## Overview of Project
 
-	This project had me utilize Excel to analyze data on hundreds of fundraising initiatives around the world and their goals, along with any factor that may have had a role in their success/failure. 
+This project had me utilize Excel to analyze data on hundreds of fundraising initiatives around the world and their goals, along with any factor that may have had a role in their success/failure. 
 
 
 ### Purpose
 
-	The purpose of this challenge was to be able to hone in on the launch dates and funding goals of particular fundraisers and see how variations in these factors impacted the outcomes. 
+The purpose of this challenge was to be able to analyze data on a plethora of kickstarter campaigns and test how their success or failure fared when it came to their **launch dates** and **fundraising goals**. 
 
 
 ## Analysis and Challenges
@@ -15,8 +15,9 @@
 The main challenges a newer coder like myself would face here are getting accustomed to filtering many columns at once and how the resulting arrangement can be used. Gaining confidence working with several open sheets was tricky, but repetition was the key to getting better at it. Highlighting and filtering with conditionals with a big help in the analysis, and combing through the data over again helps a lot with getting a solid mental foundation of what the given data set exhibits. 
 
 ### Analysis of Outcomes Based on Launch Date
+![Outcomes Based on Launch Date Graph](/Users/michael/Desktop/Challenge Resources/Theatre Outcomes by Launch Date.png)
 
-	The launch dates of kickstarter campaigns had a sizable role in their success, as campaigns launched mid-year (May-July) experienced the most success. Overall, there were more successes than failures. 
+The launch dates of kickstarter campaigns had a sizable role in their success, as campaigns launched mid-year (May-July) experienced the most success. Overall, there were more successes than failures. 
 	
 
 ### Analysis of Outcomes Based on Goals
@@ -55,6 +56,7 @@ The main challenges a newer coder like myself would face here are getting accust
 
 - What are some other possible tables and/or graphs that we could create?
 
-	1) We could create pie charts to showcase what proportions of kickstarter campaigns succeed versus which fail. 
+We could create pie charts to showcase what proportions of kickstarter campaigns succeed versus which fail. Admittedly, these seem to be faulty becuase pie charts have a value limit (or so my Mac tells me), so only a small chunk of the data can be evaluated at a time. 
 
-	2) We can also produce line graphs showing how average donations compare to the percentage funded over the course of the year. 
+
+We can also produce line graphs showing how average donations compare to the percentage funded over the course of the year. 
