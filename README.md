@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarting with Excel: Kickstarter Analysis
 
 ## Overview of Project
 
@@ -34,25 +34,25 @@ The launch dates of kickstarter campaigns had a sizable role in their success, a
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-	1)Theater programs were more likely to find success if they were launched mid-year, between April and July. The peak month for launches of successful programs was May. 
+Theater programs were more likely to find success if they were launched mid-year, between April and July. The peak month for launches of successful programs was May. 
 
-	2)Additionally, the least successful initiatives were launched at the end of the year, with the most failures occurring in October and the least success being in December. 
+Additionally, the least successful initiatives were launched at the end of the year, with the most failures occurring in October and the least success being in December. 
 
 
 - What can you conclude about the Outcomes based on Goals?
 
-	1) More project outcomes are successful when their goal funding amount is lower, as evidenced by the highest percentage successful was in the range of less than $1,000 to $1,000 to $4,999. 
+More project outcomes are successful when their goal funding amount is lower, as evidenced by the highest percentage successful was in the range of less than $1,000 to $1,000 to $4,999. 
 
-	2) There is a slope between $20,000 and $35,000 where many projects fail, and an even higher rate of failure at $45,000. This seems to be the region where smaller projects fail and larger projects have a better chance at succeeding. Much fewer projects have a chance to succeed when they aim for higher funding goals. 
+There is a slope between $20,000 and $35,000 where many projects fail, and an even higher rate of failure at $45,000. This seems to be the region where smaller projects fail and larger projects have a better chance at succeeding. Much fewer projects have a chance to succeed when they aim for higher funding goals. 
 
 
 - What are some limitations of this dataset?
 
-	1) It's very likely that this dataset does not capture all kickstarter efforts around the world, thus it's missing some information that could change the conclusions I can make from it right now. 
+It's very likely that this dataset does not capture all kickstarter efforts around the world, thus it's missing some information that could change the conclusions I can make from it right now. 
 
-	2) There are most likely other variables that impact the success or failure of fundraising efforts that this dataset is not considering
+There are most likely other variables that impact the success or failure of fundraising efforts that this dataset is not considering
 
-	3) An additional limitation of the dataset was the need to further dissect the parent category from the subcategory, as on its own it provided less useful information for those seeking specific data on "plays". The data is all there, but needs to be filtered through in order to be accessed readily. 
+An additional limitation of the dataset was the need to further dissect the parent category from the subcategory, as on its own it provided less useful information for those seeking specific data on "plays". The data is all there, but needs to be filtered through in order to be accessed readily. 
 
 - What are some other possible tables and/or graphs that we could create?
 
