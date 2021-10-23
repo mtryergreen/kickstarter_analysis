@@ -31,7 +31,7 @@ Based on the data that our line graph communicates, projects with lower goals of
 
 ![Outcomes Based on Goal Table](https://user-images.githubusercontent.com/89936913/138542714-940ca031-c173-4f10-9430-6d7224a13350.png)
 
-To filter the data, I had every kickstarter in the "theatre" and "play" parent category and subcategory divided up my the ranges of money that was desired (goal) by each organizer. From there, I used count(if) functions in excel to list how many were "successful", "failed", and "cancelled", which which I determined what percentage each of these categories captured of the overall. 
+To filter the data, I had every kickstarter in the "theatre" and "play" parent category and subcategory divided up my the ranges of money that was desired (goal) by each organizer. From there, I used count(if) functions in excel to list how many were "successful", "failed", and "cancelled", with which I determined what percentage each of these categories captured of the overall. 
 
 ### Challenges and Difficulties Encountered
 
