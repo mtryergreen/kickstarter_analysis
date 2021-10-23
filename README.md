@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This project had me utilize Excel to analyze data on hundreds of fundraising initiatives around the world and their goals, along with any factor that may have had a role in their success/failure. 
+This project had me utilize Excel to analyze data on hundreds of fundraising initiatives around the world and analyze which factors, such as goals, funds committed, start dates and duration had a role in determining their success or failure. 
 
 
 ### Purpose
