@@ -12,7 +12,7 @@ The purpose of this challenge was to be able to analyze data on a plethora of ki
 
 ## Analysis and Challenges
 
-The main challenges a newer coder like myself would face here are getting accustomed to filtering many columns at once and how the resulting arrangement can be used. Gaining confidence working with several open sheets was tricky, but repetition was the key to getting better at it. Highlighting and filtering with conditionals with a big help in the analysis, and combing through the data over again helps a lot with getting a solid mental foundation of what the given data set exhibits. 
+The main challenges a newer coder like myself would face here are getting accustomed to filtering many columns at once and how the resulting arrangement can be used. Gaining confidence working with several open sheets was tricky, but repetition was the key to getting better at it. Highlighting and filtering with conditionals was a big help in the analysis, and combing through the data over again helps a lot with getting a solid mental foundation of what the given data set exhibits. 
 
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes Based on Launch Date Graph](https://github.com/mtryergreen/kickstarter_analysis/blob/8df4c35472aac27a28fd7e634502190fa8114090/Theatre%20Outcomes%20by%20Launch%20Date.png)
