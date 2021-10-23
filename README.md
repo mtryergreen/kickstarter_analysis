@@ -70,3 +70,5 @@ An additional limitation of the dataset was the need to further dissect the pare
 We could create pie charts to showcase what proportions of kickstarter campaigns succeed versus which fail. Admittedly, these seem to be faulty becuase pie charts have a value limit (or so my Mac tells me), so only a small chunk of the data can be evaluated at a time. 
 
 We can also produce line graphs showing how average donations compare to the percentage funded over the course of the year. 
+
+Lastly, we could do more comparisons between types of kickstarter campaigns carried out, to determine which industry (theater or technology) has the higher likelihood of success through stacked bar charts or histograms comparing funding over the years. 
