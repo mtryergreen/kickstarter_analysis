@@ -17,6 +17,10 @@ The main challenges a newer coder like myself would face here are getting accust
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes Based on Launch Date Graph](https://github.com/mtryergreen/kickstarter_analysis/blob/8df4c35472aac27a28fd7e634502190fa8114090/Theatre%20Outcomes%20by%20Launch%20Date.png)
 
+The analysis of kickstarter outcomes based on launch date involved evaluating all kickstarters labeled as "theatre" in their parent category, which I organized into monthly outcomes of "successful", "failed, "cancelled", and "total".
+
+![Theatre Outcomes by Launch Date Pivot](https://user-images.githubusercontent.com/89936913/138542455-120ecd66-5536-426d-bb47-433e5827cf6d.png)
+
 The launch dates of kickstarter campaigns had a sizable role in their success, as campaigns launched mid-year (May-July) experienced the most success. Overall, there were more successes than failures. 
 	
 
@@ -24,6 +28,10 @@ The launch dates of kickstarter campaigns had a sizable role in their success, a
 ![See chart of Outcomes Based on Goals](https://github.com/mtryergreen/kickstarter_analysis/blob/main/Outcomes_vs_Goals.png)
 
 Based on the data that our line graph communicates, projects with lower goals often meet their goal while only a narrow portion of high-goal projects meet their desired outcome. <1,000 to 19999 is a pretty safe spot to keep a goal, while the next safest goal range is 35000 to 49999. 
+
+![Outcomes Based on Goal Table](https://user-images.githubusercontent.com/89936913/138542714-940ca031-c173-4f10-9430-6d7224a13350.png)
+
+To filter the data, I had every kickstarter in the "theatre" and "play" parent category and subcategory divided up my the ranges of money that was desired (goal) by each organizer. From there, I used count(if) functions in excel to list how many were "successful", "failed", and "cancelled", which which I determined what percentage each of these categories captured of the overall. 
 
 ### Challenges and Difficulties Encountered
 
